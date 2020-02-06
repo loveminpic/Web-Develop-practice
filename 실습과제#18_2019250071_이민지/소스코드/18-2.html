@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html> 
+	<head>
+		<title>Furry Friends Campaign_ 2019250071_이민지</title>
+		<link rel="stylesheet" type="text/css" href="my_style.css">
+	</head>
+	<body>
+		<div id="clickMe">Show Me the Furry Friend of the Day</div>	
+		<div id="picframe">
+			<img src="furry_friend.jpg" >
+		</div>
+		<script src="http://code.jquery.com/jquery-3.4.1.js"s></script>
+		<script>
+	    	$(document).ready(function() {
+		    	$("#clickMe").click(function() {
+			    	$("img").fadeIn(1000);
+			    	$("#picframe").slideToggle("slow");
+			});
+		});
+		</script>
+	</body>
+</html>

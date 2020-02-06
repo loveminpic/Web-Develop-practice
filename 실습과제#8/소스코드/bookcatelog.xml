@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/css" href = "cd_catalog.css"?>
+
+
+<CATALOG>
+<NAME> 2019250071 이민지 </NAME>
+
+<BOOK category = "자서전">
+<TITLE>슬픔을 공부하는 슬픔</TITLE>
+<AUTHOR>신형철</AUTHOR>
+<COUNTRY>한국</COUNTRY>
+<COMPANY>한겨레출판</COMPANY>
+<PRICE>16000원</PRICE>
+<YEAR>2018</YEAR>
+</BOOK>
+
+<BOOK category = "자서전">
+<TITLE>골든아워 1</TITLE>
+<AUTHOR>이국종</AUTHOR>
+<COUNTRY>한국</COUNTRY>
+<COMPANY>흐름출판</COMPANY>
+<PRICE>15800원</PRICE>
+<YEAR>2018</YEAR>
+</BOOK>
+
+<BOOK category = "자서전" >
+<TITLE>마법천자문 43</TITLE>
+<AUTHOR>김현수</AUTHOR>
+<COUNTRY>한국</COUNTRY>
+<COMPANY>아울북</COMPANY>
+<PRICE>9800원</PRICE>
+<YEAR>2018</YEAR>
+</BOOK>
+
+<BOOK category = "자서전" >
+<TITLE>골든아워 2</TITLE>
+<AUTHOR>이국종</AUTHOR>
+<COUNTRY>한국</COUNTRY>
+<COMPANY>흐름출판</COMPANY>
+<PRICE>15800원</PRICE>
+<YEAR>2018</YEAR>
+</BOOK>
+
+<BOOK category = "자서전">
+<TITLE>2019 전한길 한국사 3.0 기출문제집</TITLE>
+<AUTHOR>전한길</AUTHOR>
+<COUNTRY>한국</COUNTRY>
+<COMPANY>(주)에스티유나타스</COMPANY>
+<PRICE>37000원</PRICE>
+<YEAR>2018</YEAR>
+</BOOK>
+
+<BOOK category = "자서전">
+<TITLE>죽고 싶지만 떡볶이는 먹고 싶어</TITLE>
+<AUTHOR>백세희</AUTHOR>
+<COUNTRY>한국</COUNTRY>
+<COMPANY>흔</COMPANY>
+<PRICE>13800원</PRICE>
+<YEAR>2018</YEAR>
+</BOOK>
+
+<BOOK>
+<TITLE>21세기를 위한 21가지 제언</TITLE>
+<AUTHOR>전병근</AUTHOR>
+<COUNTRY>한국</COUNTRY>
+<COMPANY>김영사</COMPANY>
+<PRICE>22000원</PRICE>
+<YEAR>2018</YEAR>
+</BOOK>
+
+<BOOK>
+<TITLE>돌이킬 수 없는 약속</TITLE>
+<AUTHOR>야쿠마루 카쿠</AUTHOR>
+<COUNTRY>일본</COUNTRY>
+<COMPANY>북플라자</COMPANY>
+<PRICE>15000원</PRICE>
+<YEAR>2017</YEAR>
+</BOOK>
+
+<BOOK>
+<TITLE>나는 나로 살기로 했다</TITLE>
+<AUTHOR>김수현</AUTHOR>
+<COUNTRY>한국</COUNTRY>
+<COMPANY>마음의숲</COMPANY>
+<PRICE>13800원</PRICE>
+<YEAR>2016</YEAR>
+</BOOK>
+
+<BOOK>
+<TITLE>열두 발자국</TITLE>
+<AUTHOR>정재승</AUTHOR>
+<COUNTRY>한국</COUNTRY>
+<COMPANY>어크로스</COMPANY>
+<PRICE>16800원</PRICE>
+<YEAR>2018</YEAR>
+</BOOK>
+
+</CATALOG>
